@@ -10,7 +10,7 @@ function App() {
     <>
       <Toast />
       <ProgressBar />
-      <div className="container mx-auto">
+      <div className="container mx-auto max-w-[1200px]">
         <Nav />
         <Welcome />
         <FormSubmit />
